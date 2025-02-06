@@ -2,84 +2,24 @@
 
 ## Web Developer | Open Source Enthusiast | Laravel Lover
 
-I'm passionate about crafting elegant and efficient web solutions. I thrive in collaborative environments and enjoy contributing to open-source projects. Laravel is my framework of choice, but I'm always eager to explore new technologies.
+I'm passionate about crafting elegant and efficient web solutions. I thrive in collaborative environments and enjoy contributing to open-source projects. Laravel is my framework of choice, but I'm always eager to explore new technologies
+
+
+
+
+
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+## 🌐Socials
+Feel free to reach out! I'm always open to collaborations and discussions about web development.<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brian-karanja-10537219a?) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/KanyiKaranja?s=09) 
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-### Skills
-
-Here's a glimpse into my toolbox:
-
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/laravel.svg" width="40" height="40" alt="Laravel" />
-      <br />
-      <strong>Laravel</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/lock.svg" width="40" height="40" alt="Fortify" />
-      <br />
-      <strong>Laravel Fortify</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/database.svg" width="40" height="40" alt="MySQL" />
-      <br />
-      <strong>MySQL</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/database.svg" width="40" height="40" alt="SQLite" />
-      <br />
-      <strong>SQLite</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/js.svg" width="40" height="40" alt="JavaScript" />
-      <br />
-      <strong>JavaScript</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/tailwind-css.svg" width="40" height="40" alt="Tailwind CSS" />
-      <br />
-      <strong>Tailwind CSS</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/arrows-repeat.svg" width="40" height="40" alt="Livewire" />
-      <br />
-      <strong>Livewire</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/git-alt.svg" width="40" height="40" alt="Git" />
-      <br />
-      <strong>Git</strong>
-    </td>
-  </tr>
-</table>
-
----
-
-### Projects
-
-Here are some of the projects I've worked on:
-
-- **Tweb**: A modern web template.
-- **Lara-Fortify**: A Laravel authentication package.
-- **Ecommerce1**: An e-commerce platform.
-- **TalentHub**: A talent management system.
-- **Web3Defi**: A decentralized finance project.
-
----
-
-### Recent Activity
-
-_This section is automatically updated using a GitHub Action. See the workflow file for details._
-
----
-
-### Connect with Me
-
-Feel free to reach out! I'm always open to collaborations and discussions about web development.
-
+[![](https://visitcount.itsvg.in/api?id=Brian-001&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ✨ Thanks for visiting my profile! ✨
